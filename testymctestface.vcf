@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Testy McTestFace;;;;
+FN:Testy McTestFace
+ORG:Test Inc.
+TITLE:Testing Tester
+TEL;TYPE=work,pref:052-1111111
+TEL;TYPE=work:03-1111111
+EMAIL;TYPE=work:test@example.com
+URL:https://example.com
+KEY:OPENPGP4FPR:
+UID:enbizcard-636999
+END:VCARD
